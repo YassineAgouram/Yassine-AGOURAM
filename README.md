@@ -52,7 +52,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,openstack&perline=12" height="40" /> </p>
 
 ### ⚙️ DevOps & CI/CD
-<p align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,githubactions,nginx&perline=12" height="40" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,gitlab,githubactions,nginx&perline=12" height="40" /> </p>
 
 ### 🏗️ Infrastructure as Code & Automation
 <p align="center">
