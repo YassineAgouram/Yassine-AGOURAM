@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="agouramyassine32@gmail.com" target="_blank" title="Email">
+  <a href="mailto:agouramyassine32@gmail.com" target="_blank" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
   </a>
   &nbsp;&nbsp;
